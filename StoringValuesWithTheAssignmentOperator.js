@@ -1,1 +1,2 @@
-// coming soon
+var a;
+a = 10;
