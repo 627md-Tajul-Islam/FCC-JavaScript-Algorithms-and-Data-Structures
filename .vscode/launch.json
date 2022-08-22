@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://UnderstandingUninitializedVariables.js",
+            "request": "launch",
+            "url": "http://UnderstandingUninitializedVariables.js"
+        }
+    ]
+}
