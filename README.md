@@ -1,1 +1,1 @@
-# FCC-JavaScript-Algorithms-and-Data-Structures
+# Course Link: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
