@@ -12,4 +12,4 @@ let campers = "David";
 console.log(camper);
 console.log(campers);
 
-// হ্যালো 
+// এখানে মেইনলি ব্যাপার টা হচ্ছে যে let keyword ব্যাবহার করে একই নামে ২ টা ভেরিয়েবেল তৈরি করা পসিবল না। করলে ইরোর আসবে। 
