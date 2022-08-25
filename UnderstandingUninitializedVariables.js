@@ -1,9 +1,7 @@
-//When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined.
+//When JavaScript variables are declared, they have an initial value of undefined. 
+var a;
+console.log(a)
 
-var a = 5;
-var b = 10;
-var c = "I am a";
+var undefined;
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+//If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". 
