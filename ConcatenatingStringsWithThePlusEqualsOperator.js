@@ -6,3 +6,7 @@ console.log(outStr);
 let first = "I come here first";
 first += "I come here second";
 console.log(first);
+
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence."
+console.log(myStr);
