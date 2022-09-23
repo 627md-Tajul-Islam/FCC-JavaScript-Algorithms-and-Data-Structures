@@ -13,3 +13,9 @@ const lastName = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastName[0];
 console.log(firstLetterOfLastName);
+
+let hello = "many";
+let flon = hello.length;
+let llon = hello[1];
+console.log(flon);
+console.log(llon);
