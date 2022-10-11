@@ -13,7 +13,7 @@ console.log(undefined+undefined);
 var a = 5;
 var undefined;
 c = a + undefined;
-console.log(c)
+console.log(c);
 
 //If you concatenate a string with an undefined variable, you will get a string of undefined. 
 
