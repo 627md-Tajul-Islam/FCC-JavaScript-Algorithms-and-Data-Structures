@@ -8,3 +8,8 @@ function plusThree(number){
 const answer = plusThree(7);
 console.log(answer);
 //plusThree(5);
+
+function timesFive(argument){
+    return argument*5;
+  }
+  timesFive(5);
