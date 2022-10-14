@@ -7,3 +7,9 @@ const threeArray = [1,2,3,4,5];
 const removeLast = threeArray.pop();
 console.log(threeArray);
 console.log(removeLast);
+
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+const removedFromMyArray = myArray.pop();
