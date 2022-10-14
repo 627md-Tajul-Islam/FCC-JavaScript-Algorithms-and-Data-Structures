@@ -10,7 +10,7 @@ Although JavaScript is able to process this correctly, this may confuse other pr
 const array =
 [
 [1,2,3],
-[4,5,6],
+[4,5,100000],
 [7,8,9],
 [[10,11,12],13,14]
 ];
@@ -18,6 +18,16 @@ const array =
 
 const subArray = array[3];
 //console.log(subArray);
-
 const nestedSubarray = array[1][2];
-console.log(nestedSubarray);
+//console.log(nestedSubarray);
+const element = array[3][0][1];
+console.log(element);
+
+const myArray = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData = myArray[2][1];
