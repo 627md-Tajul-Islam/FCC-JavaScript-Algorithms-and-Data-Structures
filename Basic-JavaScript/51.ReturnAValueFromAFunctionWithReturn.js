@@ -2,7 +2,7 @@
 // You can use a return statement to send a value back out of a function.
 
 function plusThree(number){
-    return number + 3;
+    return number + 5;
     //console.log( number + 5);
 }
 const answer = plusThree(7);
