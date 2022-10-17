@@ -14,3 +14,16 @@ function addSum(number) {
   return sum1 + number;
 }
 addSum(3);
+
+// Setup
+let sum = 0;
+function addThree(sum) {
+  sum = sum + 3;
+}
+function addFive(sum) {
+  sum = sum + 5;
+}
+
+addThree(5);
+
+addFive(3);
