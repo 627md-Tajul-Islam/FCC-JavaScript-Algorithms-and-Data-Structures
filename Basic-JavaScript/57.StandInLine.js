@@ -9,13 +9,11 @@ then remove the first element of the array.
 The nextInLine function should then return the element that was removed.
  */
 function nextInLine(arr,item){
-
-    testArr.push()
-    console.log(testArr);
-
-    testArr.shift()
-    console.log(testArr);
-   
-   return item;
+    arr.push(item)
+    return arr.shift()
 }
 const testArr = [1, 2, 3, 4, 5];
+
+console.log("Before: " + JSON.stringify(testArr));
+console.log(nextInLine(testArr, 6));
+console.log("After: " + JSON.stringify(testArr));
