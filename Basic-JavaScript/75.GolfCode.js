@@ -1,4 +1,4 @@
-// Solution One
+/* // Solution One
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
 function golfScore(par, strokes) {
@@ -34,6 +34,38 @@ else if(strokes == par - 1 ){
  }
 }
 //golfScore(par, strokes)
-  golfScore(4, 2);
+  golfScore(4, 2); */
 
-// Solution Two
+
+/* // Solution Two
+const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function  golfScore(par, strokes) { 
+    // one 
+    if (strokes == 1){
+        return names[0];
+    }
+    // two 
+    else if(strokes <= par - 2){
+      return names[1];
+    }
+    // three
+    else if(strokes === par - 2){
+      return names[2];
+    }
+    // four
+    else if(strokes === par){
+      return names[3];
+    }
+    // five
+    else if(strokes === par + 1){
+      return names[4];
+    }
+    // six
+    else if(strokes === par + 2){
+      return names[5];
+    }
+    // seven
+    else if(strokes >= par + 3){
+      return names[6];
+    }
+ } */
