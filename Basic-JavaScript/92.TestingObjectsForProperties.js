@@ -9,3 +9,21 @@ const myObj = {
 
 const ok = myObj.hasOwnProperty("top");
 console.log(ok);
+
+const ok2 = myObj.hasOwnProperty("middle");
+console.log(ok2);
+
+// The first hasOwnProperty returns true, while the second returns false.
+
+function checkObj(obj, checkProp) {
+
+    if(obj.hasOwnProperty(checkProp)) 
+    {
+      return obj[checkProp];
+    }
+    else
+    {
+      return "Not Found"
+    }
+    
+  }
