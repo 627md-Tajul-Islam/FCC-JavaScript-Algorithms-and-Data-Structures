@@ -2,4 +2,10 @@
 // We can use the .hasOwnProperty(prop name) method of objects to determine if that object has the given property name.
 // .hasOwnProperty() returns true or false if the property is found or not.
 
-const 
+const myObj = {
+    top: "hat",
+    bottom: "pants"
+}
+
+const ok = myObj.hasOwnProperty("top");
+console.log(ok);
