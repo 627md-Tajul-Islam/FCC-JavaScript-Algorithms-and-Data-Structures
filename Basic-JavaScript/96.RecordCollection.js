@@ -11,3 +11,12 @@
 //If prop is tracks but the album doesn't have a tracks property, create an empty array and add value to it.
 //If prop is tracks and value isn't an empty string, add value to the end of the album's existing tracks array.
 //If value is an empty string, delete the given prop property from the album.
+/*
+After updateRecords(recordCollection, 5439, "artist", "ABBA"), artist should be the string ABBA
+Waiting:After updateRecords(recordCollection, 5439, "tracks", "Take a Chance on Me"), tracks should have the string Take a Chance on Me as the last and only element.
+Waiting:After updateRecords(recordCollection, 2548, "artist", ""), artist should not be set
+Waiting:After updateRecords(recordCollection, 1245, "tracks", "Addicted to Love"), tracks should have the string Addicted to Love as the last element.
+Waiting:After updateRecords(recordCollection, 2468, "tracks", "Free"), tracks should have the string 1999 as the first element.
+Waiting:After updateRecords(recordCollection, 2548, "tracks", ""), tracks should not be set
+Waiting:After updateRecords(recordCollection, 1245, "albumTitle", "Riptide"), albumTitle should be the string Riptide
+*/
