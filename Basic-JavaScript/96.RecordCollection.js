@@ -20,3 +20,14 @@ Waiting:After updateRecords(recordCollection, 2468, "tracks", "Free"), tracks sh
 Waiting:After updateRecords(recordCollection, 2548, "tracks", ""), tracks should not be set
 Waiting:After updateRecords(recordCollection, 1245, "albumTitle", "Riptide"), albumTitle should be the string Riptide
 */
+
+/* 
+Problem Explanation
+For the given id parameter, which is associated with the records object:
+* If the value parameter isn’t an empty string, update (or set) the value parameter for the prop parameter.
+* If the prop parameter is equal to "tracks" and the value isn’t an empty string, push the value onto the end of the tracks array.
+* If value is an empty string, delete that prop from the object.
+
+Finally, return records. 
+*/
+
