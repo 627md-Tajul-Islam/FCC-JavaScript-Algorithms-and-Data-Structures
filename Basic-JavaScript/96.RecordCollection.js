@@ -21,7 +21,7 @@ Waiting:After updateRecords(recordCollection, 2548, "tracks", ""), tracks should
 Waiting:After updateRecords(recordCollection, 1245, "albumTitle", "Riptide"), albumTitle should be the string Riptide
 */
 
-/* 
+
 Problem Explanation
 For the given id parameter, which is associated with the records object:
 * If the value parameter isn’t an empty string, update (or set) the value parameter for the prop parameter.
@@ -29,5 +29,3 @@ For the given id parameter, which is associated with the records object:
 * If value is an empty string, delete that prop from the object.
 
 Finally, return records. 
-*/
-
