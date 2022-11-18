@@ -1,22 +1,9 @@
-const ourDog = {
-    "name": "Camper",
-    "legs": 4,
-    "tails": 1,
-    "friends": ["everything!"],
-    "bark": "bow-wow"
-  };
-  
-const deletion = delete ourDog.bark;
-console.log(deletion);
-console.log(ourDog);
+// You can add new properties to existing JavaScript objects the same way you would modify them.
+const jessore = {
+    name : "jashore",
+    location : "khulna"
+}
 
-
-const myDog = {
-    "name": "Happy Coder",
-    "legs": 4,
-    "tails": 1,
-    "friends": ["freeCodeCamp Campers"],
-    "bark": "woof"
-  };
-  const del = delete myDog.tails;
-  console.log(del)
+const removed = delete jessore.location;
+console.log(removed);
+console.log(jessore);
