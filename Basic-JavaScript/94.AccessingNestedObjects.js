@@ -1,31 +1,17 @@
-// The sub-properties of objects can be accessed by chaining together the dot or bracket notation.
-
-const ourStorage = {
-    "desk": {
-      "drawer": "stapler"
+const storage = {
+    desk : {
+        drawer : "stapler"
     },
-    "cabinet": {
-      "top drawer": { 
-        "folder1": "a file",
-        "folder2": "secrets"
-      },
-      "bottom drawer": "soda"
-    }
-  };
-const draw1 = ourStorage.cabinet["top drawer"].folder2;
-const draw2 = ourStorage.desk.drawer;
 
+    cabinet : {
+        "top drawer" : {
+            folderOne : "file",
+            folderTwo : "secrets"
+        },
 
-const myStorage = {
-    "car": {
-      "inside": {
-        "glove box": "maps",
-        "passenger seat": "crumbs"
-       },
-      "outside": {
-        "trunk": "jack"
-      }
+    "bottom drawer" : "soda"
     }
-  };
-  
-  const gloveBoxContents = myStorage.car.inside["glove box"];
+}
+
+const find = storage.cabinet["top drawer"].folderOne;
+console.log(find)
