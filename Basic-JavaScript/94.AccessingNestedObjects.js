@@ -1,3 +1,4 @@
+
 const storage = {
     desk : {
         drawer : "stapler"
