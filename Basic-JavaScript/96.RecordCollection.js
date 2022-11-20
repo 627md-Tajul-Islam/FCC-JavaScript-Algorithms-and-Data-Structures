@@ -23,8 +23,21 @@ const recordCollection = {
   if (prop !== 'tracks' && value !== ""){
     records[id][prop] = value;
   }
-  
+    // If prop is tracks but the album doesn't have a tracks property, create an empty array and add value to it.
+  else if(prop === "tracks" && records[id].hasOwnProperty("tracks") === false ){
+    records[id][prop] = [value];
+  }
+   //If prop is tracks and value isn't an empty string, add value to the end of the album's existing tracks array. 
+   else if(prop === "tracks" && value !== ""){
+    records[id][prop].push(value);
+   }
+  // If value is an empty string, delete the given prop property from the album.
+  else if (value === ""){
+    delete records[id][prop];
+  }
     return records;
   }
   
   updateRecords(recordCollection, 5439, 'artist', 'ABBA');
+
+  // https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
