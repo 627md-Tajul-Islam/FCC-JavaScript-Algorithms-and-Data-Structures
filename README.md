@@ -6,6 +6,10 @@
 
 
 # Course Contents:
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">1.Comment Your JavaScript Code  </a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">1.Comment Your JavaScript Code  </a>
 
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">2.Comment Your JavaScript Code  </a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables" target="_blank">2.Declare JavaScript Variables  </a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator" target="_blank">3.Storing Values with the Assignment Operator  </a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another" target="_blank">4.Assigning the Value of One Variable to Another  </a>
