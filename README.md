@@ -20,7 +20,11 @@
 
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables" target="_blank">7.Understanding Uninitialized Variables</a>
 
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables" target="_blank">8.Understanding Case Sensitivity in Variables</a>
 
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/explore-differences-between-the-var-and-let-keywords" target="_blank">9.Explore Differences Between the var and let Keywords</a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-a-read-only-variable-with-the-const-keyword" target="_blank">10.Declare a Read-Only Variable with the const Keyword</a>
 
 
 <a href="" target="_blank"></a>
