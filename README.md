@@ -4,4 +4,8 @@
 
 # Path: C:\WebDevStuffs\FCC-JavaScript-Algorithms-and-Data-Structures> cd Basic-JavaScript
 
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"> hello </a>
+
+# Course Contents:
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">1.Comment Your JavaScript Code  </a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">2.Comment Your JavaScript Code  </a>
