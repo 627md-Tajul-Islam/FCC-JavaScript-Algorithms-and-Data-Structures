@@ -13,3 +13,14 @@
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator" target="_blank">3.Storing Values with the Assignment Operator  </a>
 
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another" target="_blank">4.Assigning the Value of One Variable to Another  </a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator" target="_blank">5.Initializing Variables with the Assignment Operator  </a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables" target="_blank">6.Declare String Variables</a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables" target="_blank">7.Understanding Uninitialized Variables</a>
+
+
+
+
+<a href="" target="_blank"></a>
