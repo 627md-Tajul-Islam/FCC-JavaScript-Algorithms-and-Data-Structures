@@ -28,3 +28,5 @@
 12/ Subtract One Number from Another with JavaScript
 
 13/ Multiply Two Numbers with JavaScript
+
+14/ Divide One Number by Another with JavaScript
