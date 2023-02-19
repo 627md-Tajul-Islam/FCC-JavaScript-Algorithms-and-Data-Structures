@@ -26,3 +26,5 @@
 11/ Add Two Numbers with JavaScript
 
 12/ Subtract One Number from Another with JavaScript
+
+13/ Multiply Two Numbers with JavaScript
