@@ -17,3 +17,8 @@
 
 7/ Understanding Uninitialized Variables
 
+8/ Understanding Case Sensitivity in Variables
+
+9/ Explore Differences Between the var and let Keywords
+
+10/ 
