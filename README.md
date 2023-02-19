@@ -21,4 +21,4 @@
 
 9/ Explore Differences Between the var and let Keywords
 
-10/ 
+10/ Declare a Read-Only Variable with the const Keyword
