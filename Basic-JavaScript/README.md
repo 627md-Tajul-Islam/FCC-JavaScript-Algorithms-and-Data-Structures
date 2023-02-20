@@ -32,3 +32,5 @@
 14/ Divide One Number by Another with JavaScript
 
 15/ Increment a Number with JavaScript
+
+16/ Decrement a Number with JavaScript
