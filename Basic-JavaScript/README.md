@@ -34,3 +34,5 @@
 15/ Increment a Number with JavaScript
 
 16/ Decrement a Number with JavaScript
+
+17/ Create Decimal Numbers with JavaScript
