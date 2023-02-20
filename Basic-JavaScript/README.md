@@ -36,3 +36,6 @@
 16/ Decrement a Number with JavaScript
 
 17/ Create Decimal Numbers with JavaScript
+
+18/ Multiply Two Decimals with JavaScript
+
