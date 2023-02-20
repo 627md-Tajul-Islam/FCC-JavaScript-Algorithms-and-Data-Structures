@@ -1,6 +1,6 @@
 # Course Link: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-# Repo Link: https://github.com/627md-Tajul-Islam/FCC-JavaScript-Algorithms-and-Data-Structures
+# Repo Link: https://github.com/627md-Tajul-Islam/FCC-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-JavaScript
 
 # Course Contents
 1/ Comment Your JavaScript Code
