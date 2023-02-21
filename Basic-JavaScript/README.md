@@ -44,3 +44,5 @@
 20/ Finding a Remainder in JavaScript
 
 21/ Compound Assignment With Augmented Addition
+
+22/ Compound Assignment With Augmented Subtraction
