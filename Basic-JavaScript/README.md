@@ -48,3 +48,5 @@
 22/ Compound Assignment With Augmented Subtraction
 
 23/ Compound Assignment With Augmented Multiplication
+
+24/ Compound Assignment With Augmented Division
