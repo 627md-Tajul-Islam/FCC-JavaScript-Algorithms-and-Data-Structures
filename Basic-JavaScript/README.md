@@ -54,3 +54,5 @@
 25/ Escaping Literal Quotes in Strings
 
 26/ Quoting Strings with Single Quotes
+
+27/ Escape Sequences in Strings
