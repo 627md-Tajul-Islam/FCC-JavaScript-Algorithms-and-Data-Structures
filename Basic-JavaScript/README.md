@@ -52,3 +52,5 @@
 24/ Compound Assignment With Augmented Division
 
 25/ Escaping Literal Quotes in Strings
+
+26/ Quoting Strings with Single Quotes
