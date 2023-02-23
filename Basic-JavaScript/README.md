@@ -56,3 +56,5 @@
 26/ Quoting Strings with Single Quotes
 
 27/ Escape Sequences in Strings
+
+28/ Concatenating Strings with Plus Operator
