@@ -64,3 +64,5 @@
 30/ Constructing Strings with Variables
 
 31/ Appending Variables to Strings
+
+32/ Find the Length of a String
