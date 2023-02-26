@@ -62,3 +62,5 @@
 29/ Concatenating Strings with the Plus Equals Operator
 
 30/ Constructing Strings with Variables
+
+31/ Appending Variables to Strings
