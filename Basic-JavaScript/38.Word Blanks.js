@@ -12,4 +12,4 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 
 const wordBlanks = "The" + " " + myAdjective+ " " + myNoun + " " + myVerb + " " + myAdverb;
-console.log(wordBlanks)
+console.log(wordBlanks);
