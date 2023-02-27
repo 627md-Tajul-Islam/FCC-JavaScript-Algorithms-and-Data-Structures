@@ -70,3 +70,5 @@
 33/ Use Bracket Notation to Find the First Character in a String
 
 34/ Understand String Immutability
+
+35/ Use Bracket Notation to Find the Nth Character in a String
