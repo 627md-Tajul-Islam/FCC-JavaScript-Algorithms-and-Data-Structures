@@ -72,3 +72,5 @@
 34/ Understand String Immutability
 
 35/ Use Bracket Notation to Find the Nth Character in a String
+
+36/ Use Bracket Notation to Find the Last Character in a String
