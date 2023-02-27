@@ -77,3 +77,5 @@
 
 37/ Use Bracket Notation to Find the Nth-to-Last Character in a String
 
+38/ Word Blanks (Problem Solving)
+
