@@ -94,3 +94,11 @@
 45/ Manipulate Arrays With pop Method
 
 46/ Manipulate Arrays With shift Method
+
+47/ Manipulate Arrays With unshift Method
+
+48/ 
+
+49/ 
+
+50/ 
