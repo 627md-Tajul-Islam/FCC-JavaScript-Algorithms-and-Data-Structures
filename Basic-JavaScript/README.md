@@ -92,3 +92,5 @@
 44/ Manipulate Arrays With push Method
 
 45/ Manipulate Arrays With pop Method
+
+46/ Manipulate Arrays With shift Method
