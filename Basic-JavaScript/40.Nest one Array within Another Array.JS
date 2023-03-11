@@ -1,0 +1,1 @@
+const myArray = [[10,9,"TAJUL"],11,"ISLAM"];
