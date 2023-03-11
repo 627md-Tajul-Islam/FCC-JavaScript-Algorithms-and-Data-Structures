@@ -82,3 +82,7 @@
 39/ Store Multiple Values in one Variable using JavaScript Arrays
 
 40/ Nest one Array within Another Array
+
+41/ Access Array Data with Indexes
+
+42/ Modify Array Data With Indexes
