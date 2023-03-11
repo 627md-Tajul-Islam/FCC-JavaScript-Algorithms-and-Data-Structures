@@ -90,3 +90,5 @@
 43/ Access Multi-Dimensional Arrays With Indexes
 
 44/ Manipulate Arrays With push Method
+
+45/ Manipulate Arrays With pop Method
