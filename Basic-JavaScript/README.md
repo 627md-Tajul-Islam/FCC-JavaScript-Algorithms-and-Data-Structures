@@ -79,3 +79,4 @@
 
 38/ Word Blanks (Problem Solving)
 
+39/ Store Multiple Values in one Variable using JavaScript Arrays
