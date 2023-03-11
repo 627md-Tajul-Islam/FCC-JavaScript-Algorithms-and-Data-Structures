@@ -88,3 +88,5 @@
 42/ Modify Array Data With Indexes
 
 43/ Access Multi-Dimensional Arrays With Indexes
+
+44/ Manipulate Arrays With push Method
