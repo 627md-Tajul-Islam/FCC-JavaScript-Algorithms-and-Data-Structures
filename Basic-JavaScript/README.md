@@ -95,7 +95,7 @@
 
 46/ Manipulate Arrays With shift Method
 
-47/ Manipulate Arrays With unshift Method
+47/ Manipulate Arrays With unShift Method
 
 48/ Shopping List (Problem Solving)
 
@@ -111,7 +111,7 @@
 
 54/ Global vs. Local Scope in Functions
 
-55/ 
+55/ Understanding Undefined Value returned from a Function
 
 56/ 
 
