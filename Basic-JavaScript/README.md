@@ -106,3 +106,5 @@
 51/ Return a Value from a Function with Return
 
 52/ Global Scope and Functions
+
+53/ Local Scope and Functions
