@@ -121,4 +121,4 @@
 
 59/ Use Conditional Logic with If Statements
 
-60/ 
+60/ Comparison with the Equality Operator
