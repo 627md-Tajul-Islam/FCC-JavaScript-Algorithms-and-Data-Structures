@@ -133,7 +133,7 @@
 
 65/ Comparison with the Greater Than Operator
 
-66/
+66/ Comparison with the Greater Than Or Equal To Operator
 
 67/
 
