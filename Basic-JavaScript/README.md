@@ -127,7 +127,7 @@
 
 62/ Practice comparing different values(Problem Solving)
 
-63/
+63/ Comparison with the Inequality Operator
 
 64/
 
