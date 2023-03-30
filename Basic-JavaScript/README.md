@@ -129,7 +129,7 @@
 
 63/ Comparison with the Inequality Operator
 
-64/
+64/ Comparison with the Strict Inequality Operator
 
 65/
 
