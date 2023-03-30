@@ -125,23 +125,23 @@
 
 61/ Comparison with the Strict Equality Operator
 
-62
+62/ Practice comparing different values(Problem Solving)
 
-63
+63/
 
-64
+64/
 
-65
+65/
 
-66
+66/
 
-67
+67/
 
-68
+68/
 
-69
+69/
 
-70
+70/
 
 71
 
