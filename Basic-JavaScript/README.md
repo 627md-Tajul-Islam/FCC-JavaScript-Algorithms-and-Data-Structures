@@ -137,7 +137,7 @@
 
 67/ Comparison with the Less Than Operator
 
-68/
+68/ Comparison with the Less Than Or Equal To Operator
 
 69/
 
