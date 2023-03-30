@@ -131,7 +131,7 @@
 
 64/ Comparison with the Strict Inequality Operator
 
-65/
+65/ Comparison with the Greater Than Operator
 
 66/
 
