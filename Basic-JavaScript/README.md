@@ -141,7 +141,7 @@
 
 69/ Comparisons with the Logical And Operator
 
-70/
+70/ Comparisons with the Logical Or Operator
 
 71
 
