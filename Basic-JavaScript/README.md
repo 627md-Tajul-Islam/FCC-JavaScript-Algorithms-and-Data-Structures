@@ -145,7 +145,7 @@
 
 71/ Introducing Else Statements
 
-72
+72/ Introducing Else If Statements
 
 73
 
