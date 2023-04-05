@@ -143,7 +143,7 @@
 
 70/ Comparisons with the Logical Or Operator
 
-71
+71/ Introducing Else Statements
 
 72
 
