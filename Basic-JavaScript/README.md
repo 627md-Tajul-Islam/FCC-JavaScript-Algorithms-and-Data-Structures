@@ -139,7 +139,7 @@
 
 68/ Comparison with the Less Than Or Equal To Operator
 
-69/
+69/ Comparisons with the Logical And Operator
 
 70/
 
