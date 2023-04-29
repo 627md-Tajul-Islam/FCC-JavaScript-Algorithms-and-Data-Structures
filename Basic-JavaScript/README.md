@@ -175,7 +175,7 @@
 
 86/ Accessing Object Properties with Variables
 
-87/
+87/ Updating Object Properties
 
 88/
 
