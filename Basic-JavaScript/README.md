@@ -161,7 +161,7 @@
 
 79/ Replacing If Else Chains with Switch
 
-80/ 
+80/ Returning Boolean Values from Functions
 
 81
 
