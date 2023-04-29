@@ -155,7 +155,7 @@
 
 76/ Selecting from Many Options with Switch Statements
 
-77
+77/ Adding a Default Option in Switch Statements
 
 78
 
