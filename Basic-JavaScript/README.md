@@ -169,7 +169,7 @@
 
 83/ Build JavaScript Objects
 
-84/
+84/ Accessing Object Properties with Dot Notation
 
 85/
 
