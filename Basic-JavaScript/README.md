@@ -171,7 +171,7 @@
 
 84/ Accessing Object Properties with Dot Notation
 
-85/
+85/ Accessing Object Properties with Bracket Notation
 
 86/
 
