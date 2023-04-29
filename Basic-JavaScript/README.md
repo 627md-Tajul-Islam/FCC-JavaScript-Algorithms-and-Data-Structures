@@ -177,9 +177,9 @@
 
 87/ Updating Object Properties
 
-88/
+88/ Add New Properties to a JavaScript Object
 
-89/
+89/ Delete Properties from a JavaScript Object
 
 90/
 
