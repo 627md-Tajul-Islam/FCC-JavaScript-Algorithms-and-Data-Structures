@@ -159,9 +159,9 @@
 
 78/ Multiple Identical Options in Switch Statements
 
-79
+79/ Replacing If Else Chains with Switch
 
-80
+80/ 
 
 81
 
