@@ -173,7 +173,7 @@
 
 85/ Accessing Object Properties with Bracket Notation
 
-86/
+86/ Accessing Object Properties with Variables
 
 87/
 
