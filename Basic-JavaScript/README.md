@@ -157,7 +157,7 @@
 
 77/ Adding a Default Option in Switch Statements
 
-78
+78/ Multiple Identical Options in Switch Statements
 
 79
 
