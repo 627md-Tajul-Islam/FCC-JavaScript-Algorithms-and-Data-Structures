@@ -185,7 +185,7 @@
 
 91/ Testing Objects for Properties
 
-92
+92/ Manipulating Complex Objects
 
 93
 
