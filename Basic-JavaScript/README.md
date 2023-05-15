@@ -181,7 +181,7 @@
 
 89/ Delete Properties from a JavaScript Object
 
-90/
+90/ Using Objects for Lookups
 
 91
 
